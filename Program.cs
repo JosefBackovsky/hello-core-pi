@@ -6,7 +6,7 @@ namespace helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello core pi!");
+            Console.WriteLine("Hello core rapsberry pi!");
         }
     }
 }
